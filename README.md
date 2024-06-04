@@ -75,7 +75,7 @@ Your profile has been loaded successfully! Scroll down to learn more about me.
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <!-- GitHub -->
-    <a href="https://www.github.com/ChinaiArman" target="_blank">
+    <a href="https://www.github.com/ChinaiArman">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <!-- Email -->

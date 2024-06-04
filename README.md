@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 <!-- TEMPLATE -->
 <!-- Intro  -->
-<h3 align="left">
-<!-- make print command green -->
+<!-- <h3 align="left">
     <samp>
         PS C:\Users\arman\README > python
         <br>
@@ -42,7 +41,25 @@ Here are some ideas to get you started:
         <br>
         Your profile has been loaded successfully! Scroll down to learn more about me.
     </samp>
-</h3>
+</h3> -->
+```python
+PS C:\Users\arman\README> python
+Python 3.12.3 (...) [...] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print("Hello World!")
+Hello World!
+>>> githubProfile = GitHubProfile(
+...     name = "Arman Chinai",
+...     location = "Vancouver, Canada",
+...     currentFocus = [
+...         "Data Science",
+...         "AI/Machine Learning",
+...         "Full Stack Web Development"
+...     ]
+... )
+Loading profile...
+Your profile has been loaded successfully! Scroll down to learn more about me.
+```
 
 <p align="center">
   <samp>

@@ -42,6 +42,8 @@ Here are some ideas to get you started:
         Your profile has been loaded successfully! Scroll down to learn more about me.
     </samp>
 </h3> -->
+# Hi, I'm Arman Chinai! 👋
+
 ```python
 PS C:\Users\arman\README> python
 Python 3.12.3 (...) [...] on win32
@@ -55,7 +57,9 @@ Hello World!
 ...         "Data Science",
 ...         "AI/Machine Learning",
 ...         "Full Stack Web Development"
-...     ]
+...     ],
+...     university = "British Columbia Institute of Technology (B.Sc CS)",
+...     currentJob = "Software Engineer @ Vivery",
 ... )
 Loading profile...
 Your profile has been loaded successfully! Scroll down to learn more about me.
@@ -63,10 +67,25 @@ Your profile has been loaded successfully! Scroll down to learn more about me.
 
 <!-- SOCIALS -->
 ## Socials
-
-![[LinkedIn](https://www.linkedin.com/in/armanchinai/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![[GitHub](https://www.github.com/ChinaiArman)](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<br>
+<!-- Align Center -->
+<p align="center">
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/armanchinai/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <!-- GitHub -->
+    <a href="https://www.github.com/ChinaiArman">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <!-- Email -->
+    <a href="mailto:chinaiarman@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <!-- Resume -->
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
+    </a>
+</p>
 
 <!-- About Section -->
 # About me

@@ -58,7 +58,7 @@ Hello World!
 ...         "AI/Machine Learning",
 ...         "Full Stack Web Development"
 ...     ],
-...     university = "British Columbia Institute of Technology (B.Sc CS)",
+...     university = "British Columbia Institute of Technology (BSc CS)",
 ...     currentJob = "Software Engineer @ Vivery",
 ... )
 Loading profile...
@@ -66,7 +66,7 @@ Your profile has been loaded successfully! Scroll down to learn more about me.
 ```
 
 <!-- SOCIALS -->
-## Socials
+## Let's Connect
 <!-- Align Center -->
 <p align="center">
     <!-- LinkedIn -->
@@ -88,7 +88,7 @@ Your profile has been loaded successfully! Scroll down to learn more about me.
 </p>
 
 <!-- About Section -->
-# About me
+## About me
 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />

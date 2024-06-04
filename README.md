@@ -91,6 +91,18 @@ Your profile has been loaded successfully! Scroll down to learn more about me.
 <!-- ABOUT ME -->
 ## About Me
 
+Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data science, AI/ML, and backend development.
+
+📖 I am currently completing my Bachelors of Science in Computer Systems at BCIT.
+
+🌱 I work part time as a Software Engineer for Vivery, a US non-profit aiming to connect food banks and eliminate food insecurity.
+
+🎮 I also tutor Computer Systems at BCIT, and coach various University ESports teams in Blizzard's Overwatch.
+
+🔭 I am currently working on a variety of projects, including creating an NLP model to normalize pantry data (Vivery), and an advanced analytics websites for Overwatch players.
+
+🌐 Feel free to explore my other projects and repositories <a href="https://github.com/ChinaiArman?tab=repositories&q=&type=&language=&sort=stargazers"> here </a>! If you wish to connect, my socials are linked above.
+
 <!-- SKILLS -->
 ## My Skills
 

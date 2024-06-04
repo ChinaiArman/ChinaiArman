@@ -71,11 +71,11 @@ Your profile has been loaded successfully! Scroll down to learn more about me.
 <!-- Align Center -->
 <p align="center">
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/armanchinai/">
+    <a href="https://www.linkedin.com/in/armanchinai/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <!-- GitHub -->
-    <a href="https://www.github.com/ChinaiArman">
+    <a href="https://www.github.com/ChinaiArman" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <!-- Email -->

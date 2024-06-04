@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <!-- TEMPLATE -->
 <!-- Intro  -->
-<p align="left">
+<h3 align="left">
 <!-- make print command green -->
-    <!-- <samp> -->
+    <samp>
         PS C:\Users\arman\README > python
         <br>
         Python 3.12.3 (...) [...] on win32
@@ -41,8 +41,8 @@ Here are some ideas to get you started:
         Loading profile...
         <br>
         Your profile has been loaded successfully! Scroll down to learn more about me.
-    <!-- </samp> -->
-</p>
+    </samp>
+</h3>
 
 <p align="center">
   <samp>

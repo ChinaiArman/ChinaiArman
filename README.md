@@ -101,7 +101,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 
 🔭 I am currently working on a variety of projects, including creating an NLP model to normalize pantry data (Vivery), and an advanced analytics websites for Overwatch players.
 
-🌐 Feel free to explore my other projects and repositories <a href="https://github.com/ChinaiArman?tab=repositories&q=&type=&language=&sort=stargazers"> here </a>! If you wish to connect, my socials are linked above.
+🌐 Feel free to explore my other projects and repositories <a href="https://github.com/ChinaiArman?tab=repositories&q=&type=&language=&sort=stargazers"> here</a>! If you wish to connect, my socials are linked above.
 
 <!-- SKILLS -->
 ## My Skills

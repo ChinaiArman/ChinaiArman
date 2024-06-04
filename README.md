@@ -61,6 +61,7 @@ Hello World!
 ...     university = "British Columbia Institute of Technology (BSc CS)",
 ...     currentJob = "Software Engineer @ Vivery",
 ... )
+>>> githubProfile.loadProfile()
 Loading profile...
 Your profile has been loaded successfully! Scroll down to learn more about me.
 ```

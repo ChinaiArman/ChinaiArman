@@ -156,7 +156,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 
-### Workflows
+### Workflows & Communication
 
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
@@ -164,6 +164,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://zoom.us/)
 [![Google Meet](https://img.shields.io/badge/-Google_Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com/)
 [![Teams](https://img.shields.io/badge/-Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/en-ca/microsoft-365/microsoft-teams/group-chat-software)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 <!-- MY STATS -->
 ## My Stats

@@ -53,7 +53,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 
 🌱 I work part time as a Software Engineer for Vivery, a US non-profit aiming to connect food banks and eliminate food insecurity.
 
-🎮 I also tutor Computer Systems at BCIT, and coach various University ESports teams in Blizzard's Overwatch.
+🎮 In my free time I tutor Computer Systems at BCIT, and coach various University ESports teams in Blizzard's Overwatch.
 
 🔭 I am currently working on a variety of projects, including creating an NLP model to normalize pantry data (Vivery), and an advanced analytics websites for Overwatch players.
 

@@ -80,6 +80,8 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![JetpackCompose](https://img.shields.io/badge/-Jetpack_Compose-6200EE?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![Ktor](https://img.shields.io/badge/-Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://ktor.io/)
 
 ### Libraries
 
@@ -92,7 +94,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-311C87?style=for-the-badge&logo=beautifulsoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 [![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![JetpackCompose](https://img.shields.io/badge/-Jetpack_Compose-6200EE?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![Room](https://img.shields.io/badge/-Room-FFCA28?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/androidx/releases/room)
 [![AWS SDK](https://img.shields.io/badge/-AWS_SDK-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sdk-for-java/)
 
 ### Technologies & IDEs

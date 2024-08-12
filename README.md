@@ -23,7 +23,9 @@ Your profile has been loaded successfully! Scroll down to learn more about me.
 ```
 
 <!-- SOCIALS -->
+
 ## Let's Connect
+
 <!-- Align Center -->
 <p align="center">
     <!-- LinkedIn -->
@@ -45,6 +47,7 @@ Your profile has been loaded successfully! Scroll down to learn more about me.
 </p>
 
 <!-- ABOUT ME -->
+
 ## About Me
 
 Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data science, AI/ML, and backend development.
@@ -60,13 +63,14 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 🌐 Feel free to explore my other projects and repositories <a href="https://github.com/ChinaiArman?tab=repositories&q=&type=&language=&sort=stargazers"> here</a>! If you wish to connect, my socials are linked above.
 
 <!-- SKILLS -->
+
 ## My Skills
 
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](<https://www.java.com/>)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -77,6 +81,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 
 [![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Passport.js](https://img.shields.io/badge/-Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)](http://www.passportjs.org/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -102,11 +107,12 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![OAuth](https://img.shields.io/badge/-OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white)](https://oauth.net/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)](https://www.openai.com/)
 
 ### IDEs
 
-[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
@@ -137,6 +143,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 <!-- MY STATS -->
+
 ## My Stats
 
 <p align="center">

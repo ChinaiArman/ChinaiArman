@@ -41,7 +41,7 @@ Your profile has been loaded successfully! Scroll down to learn more about me.
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <!-- Resume -->
-    <a href="https://drive.google.com/file/d/1_2A9skFv1BUW9CT8E6Y5ZA8ZTD8Bldos/view?usp=drive_link" target="_blank">
+    <a href="https://drive.google.com/file/d/1wXxB1S-IMRh1rl_d2OXwuWumDsPIT15N/view?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
     </a>
 </p>

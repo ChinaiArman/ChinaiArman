@@ -86,7 +86,6 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![JetpackCompose](https://img.shields.io/badge/-Jetpack_Compose-6200EE?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose)
-[![Ktor](https://img.shields.io/badge/Ktor-087CFA?logo=ktor&logoColor=fff&style=for-the-badge)](https://ktor.io/)
 
 ### Libraries
 

@@ -83,7 +83,6 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 
 [![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Passport.js](https://img.shields.io/badge/-Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)](http://www.passportjs.org/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -110,7 +109,6 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![OAuth](https://img.shields.io/badge/-OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white)](https://oauth.net/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)](https://www.openai.com/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD166?logo=huggingface&logoColor=fff&style=for-the-badge)](https://huggingface.co/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-ca/windows)

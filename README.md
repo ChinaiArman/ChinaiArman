@@ -112,6 +112,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![OAuth](https://img.shields.io/badge/-OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white)](https://oauth.net/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)](https://www.openai.com/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD166?logo=huggingface&logoColor=fff&style=for-the-badge)](https://huggingface.co/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-ca/windows)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)

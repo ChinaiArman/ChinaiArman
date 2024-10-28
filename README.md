@@ -93,6 +93,8 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![AWS SDK](https://img.shields.io/badge/-AWS_SDK-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sdk-for-java/)
+[![Mongoose](https://img.shields.io/badge/-Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
 [![Axios](https://img.shields.io/badge/-Axios-56A7F2?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -101,8 +103,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Room](https://img.shields.io/badge/-Room-FFCA28?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/androidx/releases/room)
-[![AWS SDK](https://img.shields.io/badge/-AWS_SDK-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sdk-for-java/)
-[![Mongoose](https://img.shields.io/badge/-Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+[![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
 
 ### Technologies
 

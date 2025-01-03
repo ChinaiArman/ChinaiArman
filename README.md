@@ -52,9 +52,11 @@ Your profile has been loaded successfully! Scroll down to learn more about me.
 
 Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data science, AI/ML, and backend development.
 
-📖 I am currently completing my Bachelors of Science in Computer Systems at BCIT.
+📖 I am currently completing my Bachelors of Science in Applied Computer Systems at BCIT.
 
-🌱 I work part time as a Software Engineer for Vivery, a US non-profit aiming to connect food banks and eliminate food insecurity.
+🌐 Currently, I am interning at Omniux as a full stack software engineer.
+
+🌱 I previously work part time as a Software Engineer for Vivery, a US non-profit aiming to connect food banks and eliminate food insecurity.
 
 🎮 In my free time I tutor Computer Systems at BCIT, and coach various University ESports teams in Blizzard's Overwatch.
 
@@ -115,6 +117,8 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Swagger](https://img.shields.io/badge/Swagger-85C1AE?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 
 ### IDEs
 

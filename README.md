@@ -6,7 +6,7 @@ Python 3.12.3 (...) [...] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>> print("Hello World!")
 Hello World!
->>> githubProfile = GitHubProfile(
+>>> myGitHub = GitHubProfile(
 ...     name = "Arman Chinai",
 ...     location = "Vancouver, Canada",
 ...     currentFocus = [
@@ -14,12 +14,12 @@ Hello World!
 ...         "AI/Machine Learning",
 ...         "Full Stack Web Development"
 ...     ],
-...     university = "British Columbia Institute of Technology (BSc CS)",
-...     currentJob = "Software Engineer @ Vivery",
+...     university = "British Columbia Institute of Technology (B.Sc. ACS)",
+...     currentJob = "Intern Software Engineer @ OMNIUX",
 ... )
->>> githubProfile.loadProfile()
+>>> myGitHub.loadProfile()
 Loading profile...
-Your profile has been loaded successfully! Scroll down to learn more about me.
+Your profile has been loaded successfully! Scroll down to learn more about Arman.
 ```
 
 <!-- SOCIALS -->
@@ -60,7 +60,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 
 🎮 In my free time I tutor Computer Systems at BCIT, and coach various University ESports teams in Blizzard's Overwatch.
 
-🔭 I am currently working on a variety of projects, including creating an NLP model to normalize pantry data (Vivery), and an advanced analytics websites for Overwatch players.
+🔭 I am currently working on a variety of projects, including an advanced analytics websites for Overwatch players.
 
 🌐 Feel free to explore my other projects and repositories <a href="https://github.com/ChinaiArman?tab=repositories&q=&type=&language=&sort=stargazers"> here</a>! If you wish to connect, my socials are linked above.
 

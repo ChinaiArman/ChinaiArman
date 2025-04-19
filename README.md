@@ -54,13 +54,11 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 
 📖 I am currently completing my Bachelors of Science in Applied Computer Systems at BCIT.
 
-🌐 Currently, I am interning at Omniux as a full stack software engineer.
+🌐 Currently, I am working on technology to modernize and stimulate classroom engagement through increasing student-teacher interactions.
 
-🌱 I previously work part time as a Software Engineer for Vivery, a US non-profit aiming to connect food banks and eliminate food insecurity.
+🌱 I previously work part time as a Software Engineer for Vivery, a US non-profit aiming to connect food banks and eliminate food insecurity. I also have work experience with ABIT and OMNIUX.
 
-🎮 In my free time I tutor Computer Systems at BCIT, and coach various University ESports teams in Blizzard's Overwatch.
-
-🔭 I am currently working on a variety of projects, including an advanced analytics websites for Overwatch players.
+🎮 In my free time I tutor Computer Systems at BCIT, and coach various collegiate ESports teams in Blizzard's Overwatch.
 
 🌐 Feel free to explore my other projects and repositories <a href="https://github.com/ChinaiArman?tab=repositories&q=&type=&language=&sort=stargazers"> here</a>! If you wish to connect, my socials are linked above.
 
@@ -72,6 +70,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
@@ -86,6 +85,9 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![PayloadCMS](https://img.shields.io/badge/-Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)](https://payloadcms.com/)
+[![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![JetpackCompose](https://img.shields.io/badge/-Jetpack_Compose-6200EE?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose)
@@ -94,7 +96,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![AWS SDK](https://img.shields.io/badge/-AWS_SDK-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sdk-for-java/)
+[![AWS SDK](https://img.shields.io/badge/-AWS_SDK-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/sdk-for-java/)
 [![Mongoose](https://img.shields.io/badge/-Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
 [![Axios](https://img.shields.io/badge/-Axios-56A7F2?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -104,6 +106,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![ShadCN](https://img.shields.io/badge/-ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)](https://ui.shadcn.com/)
 
 ### Technologies
 
@@ -112,7 +115,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)](https://www.openai.com/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD166?logo=huggingface&logoColor=fff&style=for-the-badge)](https://huggingface.co/)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-ca/windows)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-ca/windows)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -122,7 +125,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 
 ### IDEs
 
-[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=vsc&logoColor=white)](https://code.visualstudio.com/)
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
@@ -130,8 +133,8 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 
 ### Cloud Services
 
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)](https://aws.amazon.com/)
-[![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/)
+[![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)](https://azure.microsoft.com/)
 [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
@@ -140,6 +143,7 @@ Hi there 👋! I'm Arman (He/Him), a software engineer with a passion for data s
 ### Databases
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![AmazonRDS](https://img.shields.io/badge/-Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)](https://aws.amazon.com/rds/)
 [![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
